@@ -1,0 +1,8 @@
+{
+  "game_name": "Discord.exe",
+  "time_limit_seconds": 1800,
+  "otp_ttl_seconds": 300,
+  "otp_max_attempts": 5,
+  "request_cooldown_seconds": 60,
+  "report_interval_seconds": 1500
+}
